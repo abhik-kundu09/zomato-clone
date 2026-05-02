@@ -18,10 +18,7 @@
 
 ## 📸 Preview
 
-> *(Add a screenshot here — drag your screenshot into the GitHub repo and paste the link)*
-
-
-![Hero Section](./pics/image.png)
+[Hero Section](./pics/image.png)
 
 
 ---
