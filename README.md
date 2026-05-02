@@ -18,7 +18,7 @@
 
 ## 📸 Preview
 
-[Hero Section](./pics/image.png)
+<img src="./pics/image.png" alt="Zomato Clone Preview" width="100%"/>
 
 
 ---
