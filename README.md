@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-**👉 [View Live on Vercel](https://zomato-clone-henna-ten.vercel.app)**
+**👉 [Click here buddy](https://zomato-clone-henna-ten.vercel.app)**
 
 ---
 
